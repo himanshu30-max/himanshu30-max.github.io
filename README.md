@@ -1,6 +1,6 @@
 # Hey 👋, I'm Himanshu!
 <p align="center">Welcome to my page! 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <br>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"  width="30" /> <br>
 I'm a  Full Stack Web Developer and an Ambitious Learner from <b>Agra, India</b>.</p>
 
 
@@ -13,17 +13,16 @@ I'm an enthusiastic and ambitious person for my goals and pusposes and I’m pas
 </p>
 
 ### About My Academic Interest 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electrical Engineering with specialization in Computer Science. <br>
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Footwear Engineering with specialization in Computer Science. <br>
 
 🎓 Apart from my Engineering Major, I am pursuing Bachlor in Science in Programming and Data Science from **IIT Madras**. <br>
 
-👨‍💻  I am passionate about Web Development, Web3.0, Blockchain, Machine Learning, Data Science & other new stuffs.<br>
+👨‍💻  I am passionate about Web Development, Game Development, Blockchain, Machine Learning, Data Science & other new stuffs.<br>
 
-  ![Me Coding](/images/Coding.png)
 
 Education 
 ===============
-- Bachelor's Degree in Electrical Engineering with specilaization in Computer Science <br>
+- Bachelor's Degree in Footwear Engineering with specilaization in Computer Science <br>
 Dayalbagh Educational Institute <br> (2019 - 2023)
 
 
